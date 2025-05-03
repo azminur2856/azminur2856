@@ -3,7 +3,7 @@
 
 <h2 align="center">Hey there! I'm AZMINUR RAHMAN 👋</h2>
 <p align="center">
-  🎓 <b>CSE Student</b> | 👶 <b>New Programmer🧠</b> | <b>Lifelong Learner</b><br/>
+  🎓 <b>CSE Student</b> | 👶 <b>New Programmer</b> | 🧠 <b>Lifelong Learner</b><br/>
   🧩 Focused on building scalable backend systems with <b>NestJS</b>, <b>TypeORM</b>, and <b>PostgreSQL</b>
 </p>
 
