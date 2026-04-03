@@ -3,8 +3,10 @@
 
 <h2 align="center">Hey there! I'm AZMINUR RAHMAN 👋</h2>
 <p align="center">
-  🎓 <b>CSE Student</b> | 👶 <b>New Programmer</b> | 🧠 <b>Lifelong Learner</b><br/>
-  🧩 Focused on building scalable backend systems with <b>NestJS</b>, <b>TypeORM</b>, and <b>PostgreSQL</b>
+  💻 <b>Software Developer</b> | 🤖  <b>AI Automation Engineer</b> | 🧠 <b>Lifelong Learner</b><br/>
+  🚀 Building scalable backend systems and automation solutions<br/>
+  🧩 Specializing in <b>NestJS</b>, <b>TypeORM</b>, <b>PostgreSQL</b>, and <b>Python</b><br/>
+  💼 Providing software development and AI automation services to clients and businesses.
 </p>
 
 <p align="center">
@@ -19,12 +21,11 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm a **Computer Science and Engineering** student.
-- 💡 I’m passionate about everything coding — from frontend to backend to AI!
-- ⚛️ Right now, I’m diving into **NestJS** for backend development.
-- 🤖 I also have a keen interest in **machine learning** and AI systems.
-- 🛠️ Currently exploring **NestJS**, **TypeORM**, and **Python**
-- 📫 Reach me: **azminur2856@gmail.com**
+- 💻 I am a **software developer** focused on **backend development** and **AI automation**.
+- 🤖 I build **automation systems** and **intelligent solutions** to improve business processes.
+- ⚙️ Experienced with **NestJS**, **TypeORM**, **PostgreSQL**, and **Python**.
+- 🚀 I develop **scalable web applications** and **automation tools**.
+- 📫 Contact: **azminur2856@gmail.com**
 
 ---
 
