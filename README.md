@@ -29,6 +29,28 @@
 
 ---
 
+<div align="center">
+
+### 🌐 Portfolio & Work
+
+<a href="https://portfolio.azminur.com">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d9488&height=60&text=🔗%20portfolio.azminur.com&fontSize=22&fontColor=ffffff&fontAlign=50" width="70%"/>
+</a>
+
+<br/><br/>
+
+| 🚀 Projects | ✍️ Blog Posts | 🏅 Credentials |
+|:-----------:|:-------------:|:--------------:|
+| Live demos & case studies | Dev articles & tutorials | Certifications & awards |
+
+<br/>
+
+[![Visit Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-portfolio.azminur.com-0d9488?style=for-the-badge&logoColor=white)](https://portfolio.azminur.com)
+
+</div>
+
+---
+
 ### 🛠 Tech Stack
 
 <p align="center">
